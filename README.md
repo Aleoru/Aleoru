@@ -1,10 +1,13 @@
-# Hi, I'm Alejandra Oropeza👋
+![Header](./your-header-image-name.png)
+
+<div align="center">
+<a href="https://www.linkedin.com/in/alejandra-del-mar-oropeza-ruiz/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 - 👩🏽‍💻 Software Developer<br>
 - 🎓 Member of 42 Málaga<br>
 - 📚 Currently learning Python<br>
 - 🔎 Searching job as Software Developer<br>
-
-<a href="https://www.linkedin.com/in/alejandra-del-mar-oropeza-ruiz/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 💻 Tech Stack:
 <div align="center">
